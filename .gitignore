@@ -1,0 +1,26 @@
+# Obsidian 工作空间文件
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 临时文件
+.obsidian/workspace.json-mobile
+
+# 排除的文件夹
+/private/
+/.trash/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大文件（可选）
+*.pdf
+*.zip
+*.exe
+
+# 附件文件夹（可选 - 如果不想同步附件）
+# 附件/
+
+# Obsidian 插件缓存
+.obsidian/plugins/obsidian-git/data.json
