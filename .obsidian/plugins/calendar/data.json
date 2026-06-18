@@ -1,0 +1,16 @@
+{
+  "format": "YYYY-MM-DD",
+  "locale": "zh-CN",
+  "firstDay": 1,
+  "showWeekNumbers": true,
+  "weeklyNote": {
+    "enabled": false,
+    "format": "YYYY-[W]ww",
+    "template": "Templates/每周笔记.md"
+  },
+  "monthlyNote": {
+    "enabled": false,
+    "format": "YYYY-MM",
+    "template": "Templates/每月笔记.md"
+  }
+}

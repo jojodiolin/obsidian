@@ -1,0 +1,22 @@
+{
+  "format": "🔲 {{status}} {{description}} {{tags}}",
+  "globalFilter": "",
+  "removeGlobalFilter": true,
+  "setDoneDate": true,
+  "autoSuggestInEditor": true,
+  "autoCreateTaskFromSelection": true,
+  "backlinks": true,
+  "repeat": true,
+  "dueDate": true,
+  "startDate": true,
+  "scheduledDate": true,
+  "createdDate": true,
+  "cancelledDate": true,
+  "doneDate": true,
+  "recurrenceRule": true,
+  "onCompletion": "archive",
+  "priority": {
+    "enabled": true,
+    "symbols": ["⏫", "🔼", "🔽", ""]
+  }
+}

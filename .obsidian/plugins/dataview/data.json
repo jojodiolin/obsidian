@@ -1,0 +1,12 @@
+{
+  "enableInlineDataview": true,
+  "enableDataviewJs": true,
+  "inlineQueryPriority": 10,
+  "inlineJsQueryPriority": 20,
+  "warnOnEmptyQuery": true,
+  "renderInterval": 1000,
+  "indexInlineQueries": true,
+  "indexInlineJsQueries": true,
+  "indexDataviewJs": true,
+  "theme": "obsidian"
+}
