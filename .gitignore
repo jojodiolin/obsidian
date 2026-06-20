@@ -24,3 +24,12 @@ desktop.ini
 
 # Obsidian 插件缓存
 .obsidian/plugins/obsidian-git/data.json
+
+# Claudian 对话历史（可能含敏感内容）
+.claudian/sessions/
+
+# Claude Code 工作目录（但保留 commands 和 scripts，那是机制本体）
+.claude/agents/
+.claude/skills/
+.claude/scheduled_tasks.json
+.claude/scheduled_tasks.lock

@@ -1,1 +1,11 @@
-["obsidian-git", "calendar", "tasks", "dataview"]
+[
+  "obsidian-git",
+  "calendar",
+  "tasks",
+  "dataview",
+  "realclaudian",
+  "xhs-importer",
+  "obsidian-clipper",
+  "docxer",
+  "obsidian-importer"
+]

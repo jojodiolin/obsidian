@@ -1,0 +1,35 @@
+{
+  "noteFolder": "00.收集箱",
+  "imageFolder": "附件/XHS",
+  "downloadMedia": true,
+  "frontmatterFields": [
+    {
+      "id": "field-1781910109735-af5e24",
+      "key": "aliases",
+      "value": "",
+      "enabled": true,
+      "order": 0
+    },
+    {
+      "id": "field-1781910109735-cb8936",
+      "key": "created",
+      "value": "{{date}}",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "field-1781910109735-1c778a",
+      "key": "tags",
+      "value": "- 类型/摘录\n- 状态/待加工",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "field-1781910109735-aa81a6",
+      "key": "上级概念",
+      "value": "",
+      "enabled": true,
+      "order": 3
+    }
+  ]
+}
